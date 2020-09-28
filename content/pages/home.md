@@ -1,6 +1,6 @@
 ---
 title: olla
-featuredImage: /images/uploads/isabella juskova.jpg
+featuredImage: /images/uploads/rosewithtrans256_dekker.png
 subtitle: This is the home page subtitle
 meta:
   title: ""
